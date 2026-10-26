@@ -102,6 +102,12 @@ a licensed venue.
 A residency — Gardiner House is the realistic near-term target — makes it true locally
 before it's true anywhere else.
 
+**6 · Membership.** Added 26 Oct 2026 from the Bayreuth precedent in §9 — patron
+subscriptions sold ahead of the festival they fund. Capital before the build rather than fees
+after it, and a private society hosting its own members needs no special-use permit. **This is
+probably the first line to build, not the last**, because it is the only one that does not
+require owner consent, a crew, or a client.
+
 **5 · The channel.** Not a revenue line directly; the thing that makes the other four
 possible. It is the proof of taste that lets you charge for taste.
 
@@ -188,11 +194,81 @@ Representation, if it's ever wanted, comes last and probably never.
 
 ---
 
+## 9. The Bayreuth principle — the structural answer, found 26 October 2026
+
+> Came out of the music work, but it belongs here, because it is not a music idea. It is the
+> operating model this whole venture has been missing.
+
+### Gesamtkunstwerk
+
+Wagner's word, 1849. **The total artwork** — music, drama, staging and architecture conceived
+and authored as one thing rather than assembled from parts.
+
+§2 of this document describes three identities under one sensibility and insists they are *not
+competing brands.* That instinct was right and it already has a name, 177 years old. **The
+Society, TSCHARNER and the houses are not a portfolio. They are one authored work with three
+faces**, and that is the difference between a man with interests and an institution.
+
+### He built the room
+
+The fact that matters: Wagner could not stage *The Ring* because **no theatre in Europe could
+do what the work required.** So he built one. Bayreuth, 1876 — darkened auditorium, the
+orchestra sunk in a covered pit and invisible, no applause between acts, and a fan-shaped
+amphitheatre with **no boxes**, so every seat faces the stage and the social hierarchy of the
+opera house is abolished at the architectural level.
+
+**This is the answer to the golden-ticket problem** — the thing raised the same week, that
+Saturday in New York is stressful *"unless i already have an invitation waiting for me,"* and
+that what's needed is to *"make my own golden tickets."*
+
+Wagner's answer was not to get better at being invited. **It was to own the room and issue the
+invitations.** Reynolds owns three rooms in three of the most photographed landscapes in
+America. The asset is already there; what has been missing is the decision to use it as a
+venue rather than as a house one happens to live in.
+
+### And the funding model, which is the genuinely new thing
+
+Bayreuth was not built with Wagner's money, because he had none. It was built by
+**subscription.** *Wagner-Vereine* — Wagner societies — formed across Europe, and they sold
+**Patronatscheine**, patron's certificates, in advance of a theatre that did not yet exist.
+Members funded the venue and the festival, and membership was the entry.
+
+**A society that sells memberships to fund its own venue is not a metaphor here. It is the
+precedent, and it is a sixth revenue line that §3 does not have** — and the best one, because
+it is capital *before* the thing is built rather than fees after. It also solves the Newport
+permit problem by construction: a private society hosting its members is not a public event.
+
+### Festival, not a season
+
+The last transfer. **Bayreuth is not a venue that runs all year. It is one annual pilgrimage** —
+you go to Bayreuth, in summer, or you do not go at all.
+
+That maps exactly onto the geography in §5. **Newport in autumn is the festival.** Ojai and
+Mokule'ia are the off-season work. One concentrated annual occasion is cheaper to run than a
+calendar, far easier to staff from a distance, and **scarcity is the product** — which this
+document already argued in §3 about events, without having the form to put it in.
+
+### The honest part
+
+The first Bayreuth festival **lost money badly** and left Wagner in debt; it survived because
+Ludwig II covered the shortfall. The model works, but it is not self-funding in year one, and
+there was a patron. Worth knowing before building a budget around it.
+
+And a release or a society trading on Wagner invites the question about his antisemitism and
+Bayreuth's Nazi reception history. Reasoning and the defensible position are in
+`../Music-and-Collaborations/IDEAS.md` §12. **Have the answer before a journalist asks**, which
+one eventually will.
+
+
+---
+
 ## 8. Open questions
 
 - **The parent name.** Is the Society the umbrella, or is it one property under something
   else? It works as institution and as voice; it may be too jokey as a company name on an
-  invoice.
+  invoice. **§9 argues the Society is the umbrella** — a *Verein* is exactly the thing that
+  holds members, funds a venue and issues invitations. `von Tscharner` remains the name for
+  anything that has to look sober on an invoice.
 - **Does Reynolds appear?** The argument above says mostly not. Worth deciding deliberately
   rather than by default.
 - **Bellevue consent and timing** — 95% Ronald's, he lives there, and he's recovering.
