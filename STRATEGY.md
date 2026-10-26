@@ -51,9 +51,31 @@ the artist and the record.
 
 > **The Society throws the parties. 4BIDDEN plays them. The houses hold them.**
 
-Keep 4BIDDEN as the music name — it has a summer of sets behind it, and *forbidden fruit*
-ties the orchard to the whole identity. Renaming it to Scallop Society would put a joke on
-a club flyer and reset what little recognition exists. Full aesthetic direction for both is
+~~Keep 4BIDDEN as the music name — it has a summer of sets behind it.~~
+
+**SUPERSEDED 26 October 2026.** The premise was wrong: Reynolds confirms 4BIDDEN has
+essentially no traction — *"a handful of people have heard that name."* There is no
+recognition to protect, so renaming costs nothing now and gets more expensive every month.
+
+**The name is TSCHARNER.** His own surname — Reynolds Lombard **von Tscharner** Fleming,
+a Bernese patrician line on his mother's side.
+
+**Why it works.** The ambition he stated is *"a great composer who also DJs"* — and every
+artist occupying that lane goes by their own name: Max Richter, Nils Frahm, Ólafur Arnalds,
+Jóhann Jóhannsson, Philip Glass, Steve Reich. So does the house world he actually listens
+to: Solomun, Dixon, Âme, Rampa, Argy. **A single Mitteleuropa surname is the native form of
+both halves of what he wants to be.**
+
+It also carries the aristocracy silently, which is the whole difference between this and the
+alternative he floated — *von Bass* — a pun that announces itself before a note plays and
+signals a genre he isn't in. Same failure mode his correspondence register keeps flagging:
+announcing rather than letting the thing speak.
+
+**Reserved for other jobs:**
+- **von Tscharner** — the design house, where the aristocracy is the product rather than an aside
+- **OSTINATO** — a label or residency name. A persistently repeated musical figure; literally
+  the definition of a house track. A composer's word that describes dance music exactly
+- 4BIDDEN — retired, or kept as a one-off party name Full aesthetic direction for both is
 in `Creative-Design/AESTHETIC-PROMPTS.md`, which should move into this repo.
 
 ---
@@ -160,7 +182,9 @@ Representation, if it's ever wanted, comes last and probably never.
 3. **Write ten Society notices.** They cost nothing and they're the format test.
 4. **Ask Ronald about Bellevue** — both for the brand and the locations line. Nothing
    public happens at that house without it.
-5. **Pick a handle and hold it** across platforms before someone else does.
+5. **Claim TSCHARNER across platforms, in one sitting** — Instagram, SoundCloud, Bandcamp,
+   Spotify for Artists, Beatport, and the .com. All on the same day or not at all. Decided
+   26 Oct 2026; still unclaimed as at that date.
 
 ---
 
